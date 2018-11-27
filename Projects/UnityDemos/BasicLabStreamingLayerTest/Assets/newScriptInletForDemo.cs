@@ -2,11 +2,15 @@
 using UnityEngine;
 using Assets.LSL4Unity.Scripts.AbstractInlets;
 using Assets.LSL4Unity.Scripts;
+using UnityEngine.UI;
 
 public class newScriptInletForDemo : InletFloatSamples
 {
 
     private bool pullSamplesContinuously = false;
+
+    public Text TimeStampTextBlock = null;
+    public Text DataTextBlock = null;
 
     // Use this for initialization
     void Start () {
@@ -32,6 +36,11 @@ public class newScriptInletForDemo : InletFloatSamples
     protected override void Process(float[] newSample, double timeStamp)
     {
         Debug.Log(timeStamp);
+        if (TimeStampTextBlock != null)
+        {
+            TimeStampTextBlock.text = timeStamp.ToString();
+        }
+
         string text = "";
         // What should this process do with what its given?
         for(int index = 0; index < newSample.Length; index++)
@@ -44,6 +53,10 @@ public class newScriptInletForDemo : InletFloatSamples
         }
 
         Debug.Log(text);
+        if (DataTextBlock != null)
+        {
+            DataTextBlock.text = text;
+        }
     }
     
     protected override void OnStreamAvailable()
