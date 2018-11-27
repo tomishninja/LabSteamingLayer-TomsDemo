@@ -1,0 +1,9 @@
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\bin\Debug\LSLReceiveData.exe.config
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\bin\Debug\LSLReceiveData.exe
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\bin\Debug\LSLReceiveData.pdb
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\obj\Debug\LSLReceiveData.csprojAssemblyReference.cache
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\obj\Debug\LSLReceiveData.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\obj\Debug\LSLReceiveData.exe
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\obj\Debug\LSLReceiveData.pdb
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\bin\Debug\liblsl32.dll
+C:\Users\Thomas\EmpatheticComputing\Projects\LSLReceiveData\LSLReceiveData\bin\Debug\liblsl64.dll
