@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoatingCubeDemo", "Assembly-CSharp.csproj", "{0BF6FBAC-788D-4A66-660F-28138918D4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoatingCubeDemo", "Assembly-CSharp-Editor.csproj", "{C4057CE2-2A47-D0FB-B5D6-AA47803E05C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF6FBAC-788D-4A66-660F-28138918D4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF6FBAC-788D-4A66-660F-28138918D4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF6FBAC-788D-4A66-660F-28138918D4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF6FBAC-788D-4A66-660F-28138918D4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4057CE2-2A47-D0FB-B5D6-AA47803E05C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4057CE2-2A47-D0FB-B5D6-AA47803E05C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4057CE2-2A47-D0FB-B5D6-AA47803E05C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4057CE2-2A47-D0FB-B5D6-AA47803E05C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
