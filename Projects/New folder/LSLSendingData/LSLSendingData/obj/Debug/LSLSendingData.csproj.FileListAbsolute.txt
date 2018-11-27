@@ -1,8 +1,0 @@
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\bin\Debug\LSLSendingData.exe.config
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\bin\Debug\LSLSendingData.exe
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\bin\Debug\LSLSendingData.pdb
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\obj\Debug\LSLSendingData.csproj.CoreCompileInputs.cache
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\obj\Debug\LSLSendingData.exe
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\obj\Debug\LSLSendingData.pdb
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\bin\Debug\liblsl32.dll
-C:\Users\Thomas\EmpatheticComputing\Projects\New folder\LSLSendingData\LSLSendingData\bin\Debug\liblsl64.dll
