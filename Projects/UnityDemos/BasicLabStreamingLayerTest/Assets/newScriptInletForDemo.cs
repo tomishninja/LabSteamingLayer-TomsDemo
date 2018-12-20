@@ -14,7 +14,6 @@ public class newScriptInletForDemo : InletFloatSamples
 
     // Use this for initialization
     void Start () {
-		
 	}
 
     protected override bool isTheExpected(LSLStreamInfoWrapper stream)

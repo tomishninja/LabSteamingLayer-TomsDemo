@@ -7,3 +7,12 @@ C:\Users\Thomas\EmpatheticComputing\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsh
 C:\Users\Thomas\EmpatheticComputing\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsharpTest.pdb
 C:\Users\Thomas\EmpatheticComputing\LSLCsharpTest\LSLCsharpTest\bin\Debug\liblsl32.dll
 C:\Users\Thomas\EmpatheticComputing\LSLCsharpTest\LSLCsharpTest\bin\Debug\liblsl64.dll
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\bin\Debug\liblsl32.dll
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\bin\Debug\liblsl64.dll
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\bin\Debug\LSLCsharpTest.exe.config
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\bin\Debug\LSLCsharpTest.exe
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\bin\Debug\LSLCsharpTest.pdb
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsharpTest.csprojAssemblyReference.cache
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsharpTest.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsharpTest.exe
+C:\Users\Thomas\EmpatheticComputing\LabStreamingLayer\Projects\LSLCsharpTest\LSLCsharpTest\obj\Debug\LSLCsharpTest.pdb

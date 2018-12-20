@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncommingStreamDemo", "Assembly-CSharp.csproj", "{49B2C3C7-FA62-1541-D3F2-E2765F3F273F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{49B2C3C7-FA62-1541-D3F2-E2765F3F273F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncommingStreamDemo", "Assembly-CSharp-Editor.csproj", "{003CD2C6-A7A1-B42F-E420-39DA35265983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{003CD2C6-A7A1-B42F-E420-39DA35265983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

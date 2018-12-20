@@ -23,7 +23,7 @@ namespace LSLCsharpTest
             Random rnd = new Random();
 
             // create stream info and outlet
-            liblsl.StreamInfo info = new liblsl.StreamInfo("BioSemi", "EEG", 8, 100, liblsl.channel_format_t.cf_float32, "sddsfsdf");
+            liblsl.StreamInfo info = new liblsl.StreamInfo("MetaTester", "EEG", 8, 100, liblsl.channel_format_t.cf_float32, "sddsfsdf");
             liblsl.StreamOutlet outlet = new liblsl.StreamOutlet(info);
             float[] data = new float[8];
             while (true)
@@ -34,8 +34,6 @@ namespace LSLCsharpTest
                 outlet.push_sample(data);
                 System.Threading.Thread.Sleep(10);
             }
-
-            System.Console.ReadKey();
         }
 
         static void ReciveData()
@@ -56,8 +54,6 @@ namespace LSLCsharpTest
                     System.Console.Write("\t{0}", f);
                 System.Console.WriteLine();
             }
-
-            System.Console.ReadKey();
         }
 
         static void HandleMetaData()
